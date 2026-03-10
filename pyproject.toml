@@ -25,6 +25,7 @@ dependencies = [
   "opencv-python>=4.9",
   "pandas>=2.2",
   "pydantic>=2.6",
+  "pydantic-settings>=2.2",
   "pytorch-lightning>=2.2",
   "rich>=13.7",
   "scikit-learn>=1.4",
