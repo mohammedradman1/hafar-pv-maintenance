@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# PyCharm / VS Code
+.idea/
+.vscode/
+
+# Data artifacts
+data/raw/
+data/interim/
+data/processed/
+data/external/
+models/
+
+# Logs and temp files
+logs/
+*.log
+*.tmp
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+Thumbs.db
+.DS_Store

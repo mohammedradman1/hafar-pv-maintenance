@@ -1,0 +1,2 @@
+Name of the dataset: Photovoltaic system thermography
+The link of the dataset: https://www.kaggle.com/datasets/marcosgabriel/photovoltaic-system-thermography
